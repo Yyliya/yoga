@@ -76,7 +76,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     setClock('timer', deadLine);
 
-    //Modal
+    //Modal total
 
     let more = document.querySelector('.more'),
         overlay = document.querySelector('.overlay'),
